@@ -1,0 +1,11 @@
+{
+  "name": "popcatcheat",
+  "version": "1.0.0",
+  "description": "popcat cheat. popcat.click",
+  "main": "PopcatCheat.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
